@@ -1,0 +1,4 @@
+[2026-11-19 16:28:48] Laporan dibuat pada report.txt
+[2026-11-19 16:28:48] Backup berhasil disalin dari report.txt ke backup/report.txt
+[2026-11-19 19:59:52] Laporan dibuat pada report.txt
+[2026-11-19 19:59:52] Backup berhasil disalin dari report.txt ke backup/report.txt

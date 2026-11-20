@@ -1,0 +1,3 @@
+EMP001, Budi Santoso, Backend Engineer
+EMP002, Siti Nurhaliza, UI/UX Designer
+EMP003, Fajar Hidayat, DevOps Specialist
